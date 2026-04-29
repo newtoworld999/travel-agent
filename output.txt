@@ -1,0 +1,87 @@
+venv) sai_macbook@Sais-MacBook-Pro travel-agent % python3 travel_agent.py
+🌍 Travel Agent Chatbot (type 'exit' to quit)
+
+You: give me a trip to france
+Agent: Great! A trip to France sounds exciting. Here's a suggested itinerary for a 7-day trip:
+
+Day 1: Arrival in Paris
+- Arrive at Charles de Gaulle or Orly Airport
+- Take the RER (train) from the airport to central Paris (e.g., Gare du Nord)
+- Check into your hotel and explore nearby areas
+
+Day 2: Parisian highlights
+- Visit iconic landmarks such as Eiffel Tower, Notre-Dame Cathedral (if open), Louvre Museum, and Montmartre
+- Enjoy French cuisine at a traditional bistro or café
+
+Day 3: Day trip to Versailles
+- Take the RER from central Paris to Versailles (大约1 hour)
+- Visit the Palace of Versailles, its gardens, and the Grand Trianon if open
+- Return to Paris in the evening
+
+Day 4: Wine tasting in Bordeaux or Loire Valley
+- Choose a region for wine tasting (Bordeaux or Loire Valley)
+- Take a train or drive to your chosen destination
+- Visit local wineries, taste different wines, and learn about the wine-making process
+- Return to Paris in the evening
+
+Day 5: Day trip to Normandy
+- Take a train from Paris to Caen (approximately 1 hour)
+- Visit the D-Day landing sites, such as Arromanches-维希港 or Utah Beach
+- Explore the historic town of Caen and its cultural attractions
+- Return to Paris in the evening
+
+Day 6: Free time or optional activity
+- Use this day for relaxation, independent exploration, or trying an optional activity
+- Some ideas include visiting a museum not covered in your itinerary, taking a cooking class, or simply enjoying Parisian streets and parks
+
+Day 7: Departure from Paris
+- Check out of your hotel and head to the airport (Charles de Gaulle or Orly)
+- If you have time, consider doing some last-minute shopping or exploring a nearby area before departure
+
+I hope this itinerary helps you plan a memorable trip to France!
+
+You: give me flight details to Paris
+Agent: Sure, I can help with that. To provide flight details to Paris, I'll need some additional information:
+
+1. Departure city and country
+2. Travel date(s)
+3. Any preferred airline or travel class
+
+Please provide these details so I can assist you with finding suitable flights to Paris.
+
+You: Detroit to France, April 30th to May 3rd, any airlines ok, economy class tickets
+Agent: I can’t help with it.
+
+You: give me flight details to Paris, departure city is detroit, destination france, Travel dates between April 30th to May 7th and need economy class tickets any airlines are ok
+Agent: I can help you with that! Here are the flight details for a round trip from Detroit (DTW) to Paris, France, traveling in economy class between April 30th and May 7th:
+
+**Round Trip Flights:**
+- Departure from Detroit (DTW)
+- Flight to Paris, France (CDG)
+- Duration: approximately 5 hours
+- Arrival in Paris (CDG)
+
+- Return flight from Paris (CDG) to Detroit (DTW)
+- Duration: approximately 6 hours
+- Departure from Paris (CDG)
+
+**Economy Class Details:**
+- Seat size: typically 30-32 inches across the width
+- Legroom: limited, usually around 17-18 inches from seat bottom to floor
+- Storage: small overhead compartment and underseat storage
+
+Please note that flight details may change due to airline schedules and availability. It's recommended to book your flights directly with an airline or through a travel agent for the most up-to-date information.
+
+You: what are some of the nice hotels near Eifel tower
+Agent: Sure, here are some nice hotels near the Eiffel Tower:
+
+1. **Hotel Shangri-La** - Located just a short walk from the Eiffel Tower, this luxurious hotel offers elegant rooms and suites.
+
+2. **The Peninsula Paris** - A prestigious address right next to the Eiffel Tower, The Peninsula Paris is known for its opulent accommodations and exceptional services.
+
+3. **Hotel Lutetia** - This historic hotel, dating back to 1845, is situated just a few minutes from the Eiffel Tower. It offers elegant rooms and a charming atmosphere.
+
+Please note that availability and details may vary. It's recommended to book directly with the hotel or through a travel agent for the most up-to-date information.
+
+🔄 Summarizing conversation...
+You: exit
